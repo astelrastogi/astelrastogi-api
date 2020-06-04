@@ -1,0 +1,63 @@
+body {
+    background-image: url(hpfinal.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+  }
+.jumbotron1 {
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+   
+    /* background-image: url('hpfinal.jpg'); */
+    background-size: 100%;
+   
+}
+.btn{
+    background-color: rgb(139, 23, 8);
+  
+    color: white;
+}
+.line{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kaushan Script', cursive;
+    color:rgb(139, 23, 8);
+}
+.line2{
+    font-family: 'Kaushan Script', cursive;
+    color:rgb(85, 85, 85)
+}
+.bg1{
+    
+    background-color: rgb(245, 245, 245);
+    opacity: 0.7;
+    /* background-color: rgba(245,245, 245, 0.9); */
+}
+.centerDiv{ 
+   
+    height: 360px;
+    box-shadow:2px 2px 2px 5px white;  
+    display: flex;  
+    flex-direction: column;  
+    align-items: center; 
+    justify-content: center; 
+    background: #57606f; 
+    color: white;
+    
+
+}
+.centerDiv label{
+    
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.centerDiv
+div.first{
+    background-color: rgba(red, green, blue, 0.3);
+}
+section{
+    scroll-behavior: smooth;
+}
+.scroll{
+    scroll-behavior: smooth;
+}
